@@ -1,2 +1,2 @@
 // JavaScript source code
-var appP = angular.module("myApp", []);
+var app = angular.module("myApp", []);
